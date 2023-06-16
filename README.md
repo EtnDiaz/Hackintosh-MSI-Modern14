@@ -20,7 +20,7 @@
 - 1x Audio Jack
 
 # Status
-- OS : **macOS BigSur v11.7 (Build 20G817)**
+- OS : **macOS Ventara v13.4 (Build 20G817)**
 - Bootloader : **OPENCORE r0.9.3**
 - Bios Version : E14D1IMS.108
 - Sata Mode : AHCI
