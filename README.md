@@ -3,10 +3,10 @@
 
 # Specs
 - Model : B10MW
-- Processor : Intel Core i3 10110U
+- Processor : Intel Core i7 10510U
 - IGPU : Intel UHD Graphics 620
 - Display : 13.9" FHD (1920x1080), IPS-Level
-- RAM : 8GB DDR4 PC21300 (2667Mhz)
+- RAM : 16GB DDR4 PC21300 (2667Mhz)
 - Storage : SSD 512GB M.2 2242 NVME 3.0
 - Wireless : Intel AC 9462 and Bluetooth (labeled as AC 9560)
 - Audio : Realtek ALC235 (LayoutID : 29)
